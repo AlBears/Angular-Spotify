@@ -1,9 +1,3 @@
 node_modules/
-app/*.map
-app/*.js
-app/components/about/*.js.map
-app/components/about/*.js
-app/components/search/*.js.map
-app/components/search/*.js
-app/components/navbar/*.js.map
-app/components/navbar/*.js
+*.js
+*.js.map
